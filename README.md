@@ -43,6 +43,14 @@ Jr. Software Developer
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
 </a>
 
+<a href="https://www.webyog.com/product/sqlyog/" target="_blank" rel="noreferrer">
+  <img src="https://www.webyog.com/wp-content/uploads/2020/12/SQLyog-logo.png" 
+       alt="SQLyog" 
+       title="SQLyog" 
+       width="36" 
+       height="36" />
+</a>
+
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
 </a>
