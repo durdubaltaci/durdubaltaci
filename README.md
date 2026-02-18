@@ -83,4 +83,3 @@ Jr. Software Developer
 
 <a href="http://www.github.com/durdubaltaci"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durdubaltaci&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
